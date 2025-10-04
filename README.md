@@ -7,3 +7,13 @@ Prognose und Gesundheitsmanagement sind in der Industrie ein wichtiges Thema, um
 Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt auf ihre Zuverlässigkeit und Leistung auswirkt. Die Simulation der Triebwerksdegradation wurde mit der Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) durchgeführt. Vier verschiedene Sets wurden unter unterschiedlichen Kombinationen von Betriebsbedingungen und Fehlermodi simuliert. Dabei wurden mehrere Sensorkanäle aufgezeichnet, um die Fehlerentwicklung zu charakterisieren. Der Datensatz wurde vom NASA Ames Prognostics Center of Excellence (PCoE) bereitgestellt (https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/).
 
 ![Beispiel eines Strahltriebwerks](/assets/images/strahltriebwerk.jpg)
+
+
+Beschreibung der 21 Sensoren des Datensatzes
+Sensor      Beschreibung                  Einheit
+1           Lüftereintrittstemperatur          °R
+2           NDV Ausgangstemperatur             °R
+3           HDV Ausgangstemperatur             °R
+4
+5
+6
