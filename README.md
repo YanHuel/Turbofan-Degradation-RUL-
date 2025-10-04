@@ -8,8 +8,7 @@ Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt a
 
 ![Beispiel eines Strahltriebwerks](/assets/images/strahltriebwerk.jpg)
 
-
-
+An diesem Triebwerk wurden insgesamt 21 Sensoren mit folgender Beschreibung angebracht:
 | Sensor | Beschreibung | Einheit |
 | ------ | ------------ |-------- |
 | T2 | Lüftereintrittstemperatur | °R |
