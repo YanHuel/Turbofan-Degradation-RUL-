@@ -44,6 +44,8 @@ Zur Veranschaulichung werden die ersten und letzten beiden Datenreihen des erste
 
 
 ## Datenvisualisierung
-Im folgenden Bild ist erkennbar, dass die meisten Triebwerke um die 200 Zyklen vor Ausfall besitzt.
+Im folgenden Bild ist erkennbar, dass die meisten Triebwerke um die 200 Zyklen vor Ausfall besitzen.
 
 ![Verteilung alle Lebenszyklen](/assets/images/VerteilungLeben.png)
+
+
