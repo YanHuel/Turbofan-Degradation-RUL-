@@ -9,8 +9,9 @@ Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt a
 ![Beispiel eines Strahltriebwerks](/assets/images/strahltriebwerk.jpg)
 
 
-Beschreibung der 21 Sensoren des Datensatzes:
+
 | Sensor | Beschreibung | Einheit |
+| ------ | ------------ |-------- |
 | T2 | Lüftereintrittstemperatur | °R |
 | T24 | Niederdruckverdichter Austrittstemperatur | °R |
 | T30 | Hochdruckverdichter Austrittstemperatur | °R |
