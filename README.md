@@ -9,25 +9,26 @@ Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt a
 ![Beispiel eines Strahltriebwerks](/assets/images/strahltriebwerk.jpg)
 
 
-Beschreibung der 21 Sensoren des Datensatzes
-- T2: \t       Lüftereintrittstemperatur           [°R]
-- T24:  Niederdruckverdichter Austrittstemperatur [°R]
-- T30:  Hochdruckverdichter Austrittstemperatur [°R]
-- T50:  Niederdruckturbine Austrittstemperatur [°R]
-- P2:  Lüftereintrittsdruck [psia]
-- P15:  Bypass-Kanaldruck [psia]
-- P30:  Hochdruckverdichter Austrittsdruck [psia]
-- Nf:  Lüftergeschwindigkeit [rpm]
-- Nc:  Kerngeschwindigkeit [rpm]
-- epr: Motordruckverhältnis P50/P2 [-]
-- Ps30: Hochdruckverdichter statischer Ausdruckdruck [psia]
-- phi: Kraftstoffdurchflussverhältnis zu Ps30 [pps/psia]
-- NRf: korrigierte Lüftergeschwindigkeit [rpm]
-- NRc: korrigierte Kerngeschwindigkeit [rpm]
-- BPR: Bypass-Verhältnis [-]
-- farB: Kraftstoff-Luft-Verhältnis des Brenners [-]
-- htBleed: Enthalpie der Entlüftung [-]
-- Nf_dmd: Gewünschte Lüftergeschwindigkeit [rpm]
-- PCNfr_dmd: Gewünschte korrigierte Lüftergeschwindigkeit [rpm]
-- W31: Hochdruckturbine Kühlmittelentlüftung [lbm/s]
-- W32: Niederdruckturbine Kühlmittelentlüftung [lbm/s]
+Beschreibung der 21 Sensoren des Datensatzes:
+| Sensor | Beschreibung | Einheit |
+| T2 | Lüftereintrittstemperatur | °R |
+| T24 | Niederdruckverdichter Austrittstemperatur | °R |
+| T30 | Hochdruckverdichter Austrittstemperatur | °R |
+| T50 |  Niederdruckturbine Austrittstemperatur | °R |
+| P2 |  Lüftereintrittsdruck | psia |
+| P15 |  Bypass-Kanaldruck | psia |
+| P30 |  Hochdruckverdichter Austrittsdruck | psia |
+| Nf |  Lüftergeschwindigkeit | rpm |
+| Nc |  Kerngeschwindigkeit | rpm |
+| epr | Motordruckverhältnis P50/P2 | - |
+| Ps30 | Hochdruckverdichter statischer Ausdruckdruck | psia |
+| phi | Kraftstoffdurchflussverhältnis zu Ps30 | pps/psia |
+| NRf | korrigierte Lüftergeschwindigkeit | rpm |
+| NRc | korrigierte Kerngeschwindigkeit | rpm |
+| BPR | Bypass-Verhältnis | - |
+| farB | Kraftstoff-Luft-Verhältnis des Brenners | - |
+| htBleed | Enthalpie der Entlüftung | - |
+| Nf_dmd | Gewünschte Lüftergeschwindigkeit | rpm |
+| PCNfr_dmd | Gewünschte korrigierte Lüftergeschwindigkeit | rpm |
+| W31 | Hochdruckturbine Kühlmittelentlüftung | lbm/s |
+| W32 | Niederdruckturbine Kühlmittelentlüftung | lbm/s |
