@@ -5,3 +5,5 @@ Prognose und Gesundheitsmanagement sind in der Industrie ein wichtiges Thema, um
 
 ## Datenbeschreibung
 Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt auf ihre Zuverlässigkeit und Leistung auswirkt. Die Simulation der Triebwerksdegradation wurde mit der Commercial Modular Aero-Propulsion System Simulation (C-MAPSS) durchgeführt. Vier verschiedene Sets wurden unter unterschiedlichen Kombinationen von Betriebsbedingungen und Fehlermodi simuliert. Dabei wurden mehrere Sensorkanäle aufgezeichnet, um die Fehlerentwicklung zu charakterisieren. Der Datensatz wurde vom NASA Ames Prognostics Center of Excellence (PCoE) bereitgestellt (https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/).
+
+![Beispiel eines Strahltriebwerks](https://github.com/YanHuel/Turbofan-Degradation-RUL-/blob/main/assets/images/strahltriebwerk.jpg)
