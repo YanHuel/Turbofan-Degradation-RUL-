@@ -10,7 +10,7 @@ Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt a
 
 
 Beschreibung der 21 Sensoren des Datensatzes
-- T2:  Lüftereintrittstemperatur [°R]
+- T2:        Lüftereintrittstemperatur           [°R]
 - T24:  Niederdruckverdichter Austrittstemperatur [°R]
 - T30:  Hochdruckverdichter Austrittstemperatur [°R]
 - T50:  Niederdruckturbine Austrittstemperatur [°R]
