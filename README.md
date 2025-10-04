@@ -10,10 +10,6 @@ Triebwerke unterliegen während ihrer Lebensdauer Verschleiß, der sich direkt a
 
 
 Beschreibung der 21 Sensoren des Datensatzes
-Sensor      Beschreibung                  Einheit
-1           Lüftereintrittstemperatur          °R
-2           NDV Ausgangstemperatur             °R
-3           HDV Ausgangstemperatur             °R
-4
-5
-6
+- Sensor 1:  Lüftereintrittstemperatur [°R]
+- Sensor 2:  Niederdruckverdichter Ausgangstemperatur [°R]
+- Sensor 3:  Hochdruckverdichter Ausgangstemperatur [°R]
