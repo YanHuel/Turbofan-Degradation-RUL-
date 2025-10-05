@@ -1,4 +1,4 @@
-# Turbofan-Degradation-RUL-
+# Turbofan-Engine-Degradation
 
 ## Einleitung
 Prognose und Gesundheitsmanagement sind in der Industrie ein wichtiges Thema, um den Zustand von Anlagen vorherzusagen und so Ausfallzeiten und Ausfälle zu vermeiden. Dieses Machine-Learning-Projekt zielt darauf ab, einen Rahmen für die Vorhersage der verbleibenden Nutzungsdauer (Remaining Useful Lifetime - RUL) von Strahltriebwerken basierend auf den gesamten Lebenszyklusdaten bereitzustellen. Verschiedene Regressions- und Klassifikationsmodelle werden eingesetzt, um die Lebensdauer zu bewerten. Die Daten entsprechen dem C-MAPSS-Datensatz der NASA.
