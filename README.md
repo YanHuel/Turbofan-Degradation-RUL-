@@ -33,7 +33,8 @@ An den Triebwerken wurden insgesamt 21 Sensoren mit folgender Beschreibung angeb
 | W31 | Hochdruckturbine Kühlmittelentlüftung | lbm/s |
 | W32 | Niederdruckturbine Kühlmittelentlüftung | lbm/s |
 
-Zur Veranschaulichung werden die ersten und letzten beiden Datenreihen des ersten Trainingsdatensatzes __*train_FD001.txt*__ vorgestellt. Zu beachten ist hier, dass __*time_in_cycles*__ für alle __*unit_number*__ unterschiedlich lang ist und die Lebenszeit des Triebwerks darstellt, bevor es ausfällt.
+Zur Veranschaulichung werden die ersten und letzten beiden Datenreihen des ersten Trainingsdatensatzes __*train_FD001.txt*__ vorgestellt. 
+Zu beachten ist hier, dass __*time_in_cycles*__ für alle __*unit_number*__ unterschiedlich lang ist und die Zeit bis zum Ausfall des Triebwerks darstellt.
 
 | Index | unit_number | time_in_cycles | setting 1 | setting 2 | setting 3 |    T2  |  T24  |    T30    |  T50   |  P2  |  P15  |   P30   |    Nf    |   Nc | epr  | Ps30  |   phi   |   NRf    |  NRc  |   BPR | farB | htBleed | Nf_dmd | PCNfR_dmd  |  W31   |   W32 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
